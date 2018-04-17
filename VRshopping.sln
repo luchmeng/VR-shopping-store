@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRshopping", "VRshopping.csproj", "{61AB500B-EF76-B371-87F2-BEC8727BC185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRshopping.Plugins", "VRshopping.Plugins.csproj", "{5067A803-CE6B-3458-D1CC-C0C9D7FFD67A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRshopping.Editor.Plugins", "VRshopping.Editor.Plugins.csproj", "{9A688DC2-D87F-A0BC-A511-DEFF088E0F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRshopping.Editor", "VRshopping.Editor.csproj", "{B3851CE7-2082-140E-44F5-58C22EBEDF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61AB500B-EF76-B371-87F2-BEC8727BC185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AB500B-EF76-B371-87F2-BEC8727BC185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AB500B-EF76-B371-87F2-BEC8727BC185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AB500B-EF76-B371-87F2-BEC8727BC185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5067A803-CE6B-3458-D1CC-C0C9D7FFD67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5067A803-CE6B-3458-D1CC-C0C9D7FFD67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5067A803-CE6B-3458-D1CC-C0C9D7FFD67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5067A803-CE6B-3458-D1CC-C0C9D7FFD67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A688DC2-D87F-A0BC-A511-DEFF088E0F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A688DC2-D87F-A0BC-A511-DEFF088E0F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A688DC2-D87F-A0BC-A511-DEFF088E0F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A688DC2-D87F-A0BC-A511-DEFF088E0F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3851CE7-2082-140E-44F5-58C22EBEDF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3851CE7-2082-140E-44F5-58C22EBEDF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3851CE7-2082-140E-44F5-58C22EBEDF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3851CE7-2082-140E-44F5-58C22EBEDF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
